@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[bastiantest]]></title>
         <description><![CDATA[bastiantest]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bastiantest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 17:23:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Dec 2015 17:23:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bastiantest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/bastiantest/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">d7acb4e4-6e81-48e6-abe9-33f56de8f126</guid>
-            <pubDate>Fri, 04 Dec 2015 17:23:34 GMT</pubDate>
+            <pubDate>Fri, 04 Dec 2015 17:23:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
